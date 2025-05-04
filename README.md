@@ -1,2 +1,1 @@
-# android
-Grab bugbounty POC by @nvk0x
+# Grab bugbounty POC by @nvk0x
